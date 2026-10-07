@@ -26,6 +26,6 @@ The third sheet below ("All primes") colors every number each prime (5, 7, 11, 1
 
 *Legend: P = Pythagorean primes column, G = Gaussian primes column, E = Eisenstein primes (without imaginary part) column.*
 
-| 5 | 7 | All primes |
+| Prime of 5 | Prime of 7 | All primes |
 |---|---|---|
 | [<img src="screenshots/sheet-5.png" width="280">](screenshots/sheet-5.png) | [<img src="screenshots/sheet-7.png" width="280">](screenshots/sheet-7.png) | [<img src="screenshots/sheet-all.png" width="280">](screenshots/sheet-all.png) |

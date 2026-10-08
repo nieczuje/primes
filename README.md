@@ -2,6 +2,8 @@
 
 ![Handwritten](https://img.shields.io/badge/provenance-handwritten-brightgreen)
 
+*2021: written before git, first committed in 2026*
+
 A small, self-guessed prime number generator in Python.
 
 ## How it works
